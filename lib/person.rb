@@ -5,6 +5,7 @@ class Person
 end
 class Person 
   def walk
+    
 end
 end
 
